@@ -39,3 +39,15 @@
 
 # debug information files
 *.dwo
+
+# Build artifacts
+build/
+build-*/
+build-ninja/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
