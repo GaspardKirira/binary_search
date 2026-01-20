@@ -1,13 +1,8 @@
 {
   "name": "binary_search",
-  "namespace": "binary_search",
-  "version": "0.1.0",
+  "namespace": "gaspardkirira",
+  "type": "header-only",
+  "include": "include",
   "license": "MIT",
-  "description": "A C++ library.",
-  "repo": "<git-url>",
-  "type": "library",
-  "build": {
-    "system": "cmake",
-    "preset": "dev-ninja"
-  }
+  "description": "A tiny header-only binary search helper library for Vix Registry demos."
 }
