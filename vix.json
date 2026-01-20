@@ -1,6 +1,6 @@
 {
   "name": "binary_search",
-  "namespace": "<your-namespace>",
+  "namespace": "binary_search",
   "version": "0.1.0",
   "license": "MIT",
   "description": "A C++ library.",
