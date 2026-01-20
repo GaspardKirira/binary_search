@@ -1,0 +1,27 @@
+version = 1
+
+[app]
+kind = "project"
+dir = "."
+name = "binary_search"
+entry = "tests/test_basic.cpp"
+
+[build]
+preset = "dev-ninja"
+run_preset = "run-dev-ninja"
+jobs = 8
+
+[dev]
+watch = true
+force = "tests"
+clear = "auto"
+
+[logging]
+level = "info"
+format = "json-pretty"
+color = "auto"
+
+[run]
+args = []
+env = []
+timeout_sec = 0

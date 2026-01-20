@@ -1,0 +1,13 @@
+{
+  "name": "binary_search",
+  "namespace": "<your-namespace>",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A C++ library.",
+  "repo": "<git-url>",
+  "type": "library",
+  "build": {
+    "system": "cmake",
+    "preset": "dev-ninja"
+  }
+}
