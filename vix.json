@@ -1,8 +1,22 @@
 {
   "name": "binary_search",
   "namespace": "gaspardkirira",
+  "version": "0.1.2",
   "type": "header-only",
   "include": "include",
   "license": "MIT",
-  "description": "A tiny header-only binary search helper library for Vix Registry demos."
+  "description": "A tiny header-only binary search helper library for C++.",
+  "keywords": [
+    "algorithm",
+    "binary-search",
+    "header-only",
+    "cpp"
+  ],
+  "repository": "https://github.com/Gaspardkirira/binary_search",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ]
 }
